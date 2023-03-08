@@ -1,0 +1,152 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+sidebar:
+    about: false # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
+
+    # Profile information
+    name: Oghenekome Egbedi
+    tagline: Software Developer
+    avatar: profile.jpeg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+    # Sidebar links
+    email: oghenekomeegbedi222@gmail.com
+    phone: 204 333 3645
+    timezone: America/Winnipeg Timezone
+    citizenship:
+    #website: blog.webjeda.com #do not add http://
+    linkedin: komeegbedi
+    github: komeegbedi
+    telegram: # add your nickname without '@' sign
+    gitlab:
+    bitbucket:
+    twitter: '@komeegbedi'
+    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    codewars:
+    goodreads: # Number-Username, e.g. 123456-alandoe
+    pdf: http://www.africau.edu/images/default/sample.pdf
+
+    interests:
+      title: Interests
+      info:
+        - item: Photography / Cinematography
+          link:
+
+        - item: Tech
+          link:
+
+career-profile:
+    title: Career Profile
+    summary: |
+      Summarise your career here lorem ipsum dolor sit amet, consectetuer
+      adipiscing elit. You can [download this free resume/CV template here]().
+      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
+      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+      Donec quam felis, ultricies nec, pellentesque eu.
+      Second paragraph if required.
+education:
+    title: Education
+    info:
+      - degree: BSc in Computer Science
+        university: University of Manitoba
+        time: 2019 - Present
+        details: |
+          Describe your study here lorem ipsum dolor sit amet, consectetuer
+          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+          sociis natoque penatibus et magnis dis parturient montes, nascetur
+          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+          pretium quis, sem.
+            - Bullet point
+            - Bullet point
+      - degree: College
+        university: International College of Manitoba
+        time: 2018 - 2019
+        details: |
+          Describe your study here lorem ipsum dolor sit amet, consectetuer
+          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+          sociis natoque penatibus et magnis dis parturient montes, nascetur
+          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+          pretium quis, sem.
+            - Bullet point
+            - Bullet point
+experiences:
+    title: Experiences
+    info:
+      - role: IT Supervisor and Lead of Social Media team 
+        time: Dec. 2021 - Present
+        company: IFC Winnipeg 
+        details: |
+            - Built mock designs for the company’s website and created accessible, responsive, and functional user interface to enable users easily navigate the website, 
+            which improved the user base by 31%.
+            - Led and managed the creative team (Design, Photo, Video etc.) to create efficient, effective contents for the social platforms.
+            - Developed documentation to teach new team member’s company standards and best practices.
+      - role: Photographer & Cinematographer 
+        time: Dec. 2018 - Present
+        company: 23 Studiio
+        details: |
+            - Captured stunning visuals for high-profile clients, resulting in an average increase of followers by 25%.
+            - Collaborated with 8 external vendors to plan & execute creative photo & video shoots.
+            - Edited and retouched pictures within tight deadlines while ensuring client satisfaction at 100%.
+      - role: Web developer 
+        time: Nov 2017 — Aug 2018
+        company: Rad Culture
+        details: |
+            - Designed and developed dynamic, interactive web application that ensured high traffic, 
+            page views and great user experience, resulting in 40% increase in sale revenue. 
+            - Created user interface that enabled users customize their design on the product they were purchasing.
+      - role: Web developer 
+        time: Nov 2017 — Feb 2018
+        company: The Haze
+        details: |
+            - Designed and developed web application using JavaScript frameworks while following test driven development methodology. 
+            - Designed an integrated database using MYSQL which leveraged the site architecture to provide detailed feedback and site analysis
+            - Improved backend of application through testing, increasing processing effectiveness by 20%.
+projects:
+    title: Projects
+    assignments:
+      - title: Chatroom (HTML, CSS, & JavaScript)
+        link: "https://komeegbedi.github.io/Chatroom/"
+        tagline: |
+          - Developed chatroom which allow multiple users to communicate based on their interests.
+          - Integrated with Google Firebase to display real time changes to the application 
+
+      - title: Student Life Simulator (Java, Android Studio)
+        link: "https://github.com/komeegbedi/student-life-simulator "
+        tagline: |
+          - Developed a game in which the user will manage a student character’s life as a university student. 
+             It will simulate the experience of a student taking remote classes from their apartment, over the course of an academic term.
+          - Built API to allow managing the state of the student and managing the courses in which the student takes.
+          - Tested 100% of application using unit and integration testing.
+          - Assisted in documentation of the architecture for the application.
+
+      - title: Unbeatable Tic Tac Toe Game (HTML, CSS & JavaScript)
+        link: "https://komeegbedi.github.io/Tic-Tac-Toe/"
+        tagline: |
+          - Developed and implemented using an AI decision algorithm, the minimax algorithm.
+
+skills:
+    title: Skills &amp; Proficiency
+
+    toolset:
+      - name: Python & Django
+        level: 98%
+
+      - name: Javascript & jQuery
+        level: 98%
+
+      - name: Angular
+        level: 98%
+
+      - name: HTML5 & CSS
+        level: 95%
+
+      - name: Ruby on Rails
+        level: 85%
+
+      - name: Sketch & Photoshop
+        level: 60%
+
+footer: >
+    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
