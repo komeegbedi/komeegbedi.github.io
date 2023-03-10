@@ -39,7 +39,7 @@ GitHub is  a code hosting platform for version control and collaboration. It let
  1.  After installing VS Code, create a new folder on your computer to store your resume project.  
  2.  Open Visual Studio Code and click "File" > "Open Folder", then navigate to the folder of the clone repository and click "Open".  
  3.   In Visual Studio Code, click "File" > "New File" and name the file "index.md" (or any name you prefer but be sure the file extension is ".md") . This is where you'll write your resume content in Markdown format.
- 4.  Open the "index.md" file and start writing your resume content using Markdown syntax. To learn more about Markdown syntax visit  [here][Markdown] 
+ 4.  Open the "index.md" file and start writing your resume content using Markdown syntax. To learn more about Markdown syntax visit  [HERE](https://www.markdowntutorial.com/) 
  5. You can also download an extension in VS Code to help you preview your markdown files while you are writing. The extension name of the extension I used is "Markdown All in One". 
 
 ### Step 5: Create a Static Website with Jekyll 
@@ -92,9 +92,23 @@ To push your files through the Command Prompt:
     
 4.  If this is your first time pushing changes to GitHub from this computer, you may be prompted to authenticate. Follow the prompts to authenticate with your GitHub username and password.
 
-  
+  Congratulations! You have successfully hosted and formatted your resume using Markdown, VS Code, GitHub Pages, and Jekyll. You should have something looking like this now: 
 
-[Markdown]: https://www.markdowntutorial.com/
-  
 
-[link to template used](https://github.com/sharu725/online-cv)
+## More Resources
+ 
+1. [Markdown Tutorial](https://www.markdowntutorial.com/) 
+2. [Andrew Etter's book Modern Technical Writing](https://a.co/d/4H7ERuI)
+3. [Git](https://www.w3schools.com/git/)
+
+ ## Authors and Acknowledgements 
+ 
+1. Jekyll Resume Template -  Sharath Kumar (-   [https://webjeda.com](https://webjeda.com/)
+
+2. Group Members - Khanh Le,  Zhiyin An and Christian Trites 
+
+## FAQ
+
+#### Why is Markdown better than a word processor?
+
+Markdown is a lightweight markup language that is easy to learn and use. It allows you to focus on the content of your document without worrying about formatting. Markdown documents can be easily converted
