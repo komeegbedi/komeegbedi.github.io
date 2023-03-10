@@ -94,6 +94,7 @@ To push your files through the Command Prompt:
 
   Congratulations! You have successfully hosted and formatted your resume using Markdown, VS Code, GitHub Pages, and Jekyll. You should have something looking like this now: 
 
+![Resume Preview](assets/resume_preview.gif) 
 
 ## More Resources
  
