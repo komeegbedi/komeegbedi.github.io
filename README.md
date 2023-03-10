@@ -104,7 +104,7 @@ To push your files through the Command Prompt:
 
  ## Authors and Acknowledgements 
  
-1. Jekyll Resume Template -  Sharath Kumar (-   [https://webjeda.com](https://webjeda.com/)
+1. Jekyll Resume Template -  Sharath Kumar [https://webjeda.com](https://webjeda.com/)
 
 2. Group Members - Khanh Le,  Zhiyin An and Christian Trites 
 
